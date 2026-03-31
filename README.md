@@ -1,6 +1,7 @@
 # Settle It - Real-Time Anonymous Polling App
 
 A real-time anonymous polling application built with Next.js 14+, TypeScript, Prisma, and Pusher.
+<img width="1908" height="909" alt="Screenshot 2026-04-01 021446" src="https://github.com/user-attachments/assets/9a2852f8-350a-45de-8ace-53674ef70c10" />
 
 ## Features
 
